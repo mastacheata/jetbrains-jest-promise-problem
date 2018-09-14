@@ -1,0 +1,10 @@
+{
+  "name": "jetbrains-jest-promise-problems",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest": "20.0.4"
+  }
+}
